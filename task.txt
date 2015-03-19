@@ -1,0 +1,15 @@
+Provide SBT  Scala project which can be run with command �set run� and give mentioned below output.
+
+Given file �planes_log.cv.gz" with following schema:
+
+"YEAR","QUARTER","MONTH","DAY_OF_MONTH","DAY_OF_WEEK","FL_DATE",    "ORIGIN","DEST",
+2014,   1,       1,       1,            3,            2014-01-01,   "JFK",  "LAX",
+2014,1,1,5,7,2014-01-05,"JFK","LAX",
+2014,1,1,6,1,2014-01-06,"JFK","LAX",
+
+Parse file and give following output:
+1.a File with list all airports and number of planes arrived to each of them during month = all
+1.b File with list all airports and number of planes arrived to each of them during month = x
+2. File with not null difference between �Planes left the airport� and �Planes came to airport�
+файл с разницей между самолетами прилетевшими в аэропорт и самолетами покинувшеми аэропорт
+JFK DIFF

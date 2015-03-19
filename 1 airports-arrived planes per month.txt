@@ -1,0 +1,602 @@
+airport: ROW flights 89
+	| month 1, number of flights 89
+airport: OAJ flights 139
+	| month 1, number of flights 139
+airport: GCC flights 124
+	| month 1, number of flights 124
+airport: SYR flights 550
+	| month 1, number of flights 550
+airport: TYR flights 232
+	| month 1, number of flights 232
+airport: TUL flights 1612
+	| month 1, number of flights 1612
+airport: STL flights 4142
+	| month 1, number of flights 4142
+airport: IDA flights 223
+	| month 1, number of flights 223
+airport: ICT flights 801
+	| month 1, number of flights 801
+airport: MQT flights 27
+	| month 1, number of flights 27
+airport: SWF flights 62
+	| month 1, number of flights 62
+airport: EKO flights 87
+	| month 1, number of flights 87
+airport: JFK flights 7882
+	| month 1, number of flights 7882
+airport: LGB flights 972
+	| month 1, number of flights 972
+airport: ISP flights 398
+	| month 1, number of flights 398
+airport: ART flights 58
+	| month 1, number of flights 58
+airport: ORD flights 21529
+	| month 1, number of flights 21529
+airport: STX flights 90
+	| month 1, number of flights 90
+airport: EGE flights 302
+	| month 1, number of flights 302
+airport: LWS flights 54
+	| month 1, number of flights 54
+airport: TWF flights 116
+	| month 1, number of flights 116
+airport: LAS flights 11052
+	| month 1, number of flights 11052
+airport: BET flights 83
+	| month 1, number of flights 83
+airport: GSP flights 609
+	| month 1, number of flights 609
+airport: DAY flights 769
+	| month 1, number of flights 769
+airport: KOA flights 905
+	| month 1, number of flights 905
+airport: BUR flights 1730
+	| month 1, number of flights 1730
+airport: DRO flights 223
+	| month 1, number of flights 223
+airport: PVD flights 902
+	| month 1, number of flights 902
+airport: BRD flights 79
+	| month 1, number of flights 79
+airport: SPS flights 124
+	| month 1, number of flights 124
+airport: CLD flights 207
+	| month 1, number of flights 207
+airport: SGF flights 559
+	| month 1, number of flights 559
+airport: CDV flights 60
+	| month 1, number of flights 60
+airport: STT flights 417
+	| month 1, number of flights 417
+airport: OTZ flights 60
+	| month 1, number of flights 60
+airport: AVL flights 232
+	| month 1, number of flights 232
+airport: BOI flights 830
+	| month 1, number of flights 830
+airport: PSP flights 1154
+	| month 1, number of flights 1154
+airport: SAF flights 145
+	| month 1, number of flights 145
+airport: FWA flights 304
+	| month 1, number of flights 304
+airport: MHT flights 552
+	| month 1, number of flights 552
+airport: SBN flights 308
+	| month 1, number of flights 308
+airport: RDM flights 278
+	| month 1, number of flights 278
+airport: PSG flights 62
+	| month 1, number of flights 62
+airport: LAX flights 18474
+	| month 1, number of flights 18474
+airport: BQN flights 112
+	| month 1, number of flights 112
+airport: HSV flights 535
+	| month 1, number of flights 535
+airport: RIC flights 1256
+	| month 1, number of flights 1256
+airport: BTM flights 62
+	| month 1, number of flights 62
+airport: LSE flights 53
+	| month 1, number of flights 53
+airport: FCA flights 155
+	| month 1, number of flights 155
+airport: JAC flights 337
+	| month 1, number of flights 337
+airport: ATL flights 30784
+	| month 1, number of flights 30784
+airport: CHA flights 277
+	| month 1, number of flights 277
+airport: BQK flights 86
+	| month 1, number of flights 86
+airport: MIA flights 7426
+	| month 1, number of flights 7426
+airport: GUC flights 74
+	| month 1, number of flights 74
+airport: SBP flights 368
+	| month 1, number of flights 368
+airport: BFL flights 301
+	| month 1, number of flights 301
+airport: DHN flights 116
+	| month 1, number of flights 116
+airport: FLG flights 129
+	| month 1, number of flights 129
+airport: BRO flights 206
+	| month 1, number of flights 206
+airport: LAN flights 116
+	| month 1, number of flights 116
+airport: FSM flights 207
+	| month 1, number of flights 207
+airport: RAP flights 270
+	| month 1, number of flights 270
+airport: EAU flights 62
+	| month 1, number of flights 62
+airport: PNS flights 678
+	| month 1, number of flights 678
+airport: LIT flights 1151
+	| month 1, number of flights 1151
+airport: CLT flights 9777
+	| month 1, number of flights 9777
+airport: CDC flights 54
+	| month 1, number of flights 54
+airport: GRI flights 58
+	| month 1, number of flights 58
+airport: GTR flights 85
+	| month 1, number of flights 85
+airport: SDF flights 1151
+	| month 1, number of flights 1151
+airport: AZO flights 13
+	| month 1, number of flights 13
+airport: HIB flights 55
+	| month 1, number of flights 55
+airport: ABY flights 89
+	| month 1, number of flights 89
+airport: BTV flights 293
+	| month 1, number of flights 293
+airport: OME flights 60
+	| month 1, number of flights 60
+airport: SEA flights 7776
+	| month 1, number of flights 7776
+airport: SJC flights 3328
+	| month 1, number of flights 3328
+airport: FAR flights 432
+	| month 1, number of flights 432
+airport: LMT flights 62
+	| month 1, number of flights 62
+airport: SMX flights 102
+	| month 1, number of flights 102
+airport: MOD flights 93
+	| month 1, number of flights 93
+airport: CHO flights 103
+	| month 1, number of flights 103
+airport: LGA flights 8535
+	| month 1, number of flights 8535
+airport: LAR flights 62
+	| month 1, number of flights 62
+airport: BTR flights 710
+	| month 1, number of flights 710
+airport: PHX flights 13335
+	| month 1, number of flights 13335
+airport: INL flights 54
+	| month 1, number of flights 54
+airport: JNU flights 303
+	| month 1, number of flights 303
+airport: DLH flights 124
+	| month 1, number of flights 124
+airport: AVP flights 66
+	| month 1, number of flights 66
+airport: SMF flights 3381
+	| month 1, number of flights 3381
+airport: MOB flights 480
+	| month 1, number of flights 480
+airport: PIH flights 84
+	| month 1, number of flights 84
+airport: BUF flights 1348
+	| month 1, number of flights 1348
+airport: IAH flights 14569
+	| month 1, number of flights 14569
+airport: OTH flights 31
+	| month 1, number of flights 31
+airport: MTJ flights 165
+	| month 1, number of flights 165
+airport: PAH flights 62
+	| month 1, number of flights 62
+airport: FSD flights 593
+	| month 1, number of flights 593
+airport: SPI flights 152
+	| month 1, number of flights 152
+airport: HDN flights 173
+	| month 1, number of flights 173
+airport: AMA flights 642
+	| month 1, number of flights 642
+airport: SJT flights 151
+	| month 1, number of flights 151
+airport: BGR flights 61
+	| month 1, number of flights 61
+airport: LRD flights 202
+	| month 1, number of flights 202
+airport: GGG flights 62
+	| month 1, number of flights 62
+airport: SCC flights 78
+	| month 1, number of flights 78
+airport: SAV flights 525
+	| month 1, number of flights 525
+airport: BIL flights 276
+	| month 1, number of flights 276
+airport: CMH flights 2157
+	| month 1, number of flights 2157
+airport: MDW flights 6577
+	| month 1, number of flights 6577
+airport: GPT flights 356
+	| month 1, number of flights 356
+airport: JLN flights 62
+	| month 1, number of flights 62
+airport: TTN flights 136
+	| month 1, number of flights 136
+airport: CLL flights 226
+	| month 1, number of flights 226
+airport: MSN flights 785
+	| month 1, number of flights 785
+airport: LNK flights 177
+	| month 1, number of flights 177
+airport: COS flights 755
+	| month 1, number of flights 755
+airport: ORF flights 990
+	| month 1, number of flights 990
+airport: ALO flights 58
+	| month 1, number of flights 58
+airport: SRQ flights 343
+	| month 1, number of flights 343
+airport: TRI flights 171
+	| month 1, number of flights 171
+airport: BJI flights 62
+	| month 1, number of flights 62
+airport: KTN flights 186
+	| month 1, number of flights 186
+airport: CID flights 439
+	| month 1, number of flights 439
+airport: MKG flights 62
+	| month 1, number of flights 62
+airport: RKS flights 155
+	| month 1, number of flights 155
+airport: FAY flights 191
+	| month 1, number of flights 191
+airport: OMA flights 1685
+	| month 1, number of flights 1685
+airport: XNA flights 831
+	| month 1, number of flights 831
+airport: EYW flights 424
+	| month 1, number of flights 424
+airport: ILM flights 189
+	| month 1, number of flights 189
+airport: PIA flights 293
+	| month 1, number of flights 293
+airport: PDX flights 4372
+	| month 1, number of flights 4372
+airport: MSP flights 8085
+	| month 1, number of flights 8085
+airport: WRG flights 62
+	| month 1, number of flights 62
+airport: FOE flights 50
+	| month 1, number of flights 50
+airport: LBB flights 521
+	| month 1, number of flights 521
+airport: MLB flights 120
+	| month 1, number of flights 120
+airport: LIH flights 869
+	| month 1, number of flights 869
+airport: ACV flights 269
+	| month 1, number of flights 269
+airport: ADK flights 9
+	| month 1, number of flights 9
+airport: GTF flights 152
+	| month 1, number of flights 152
+airport: ELM flights 104
+	| month 1, number of flights 104
+airport: CVG flights 1513
+	| month 1, number of flights 1513
+airport: SAN flights 6086
+	| month 1, number of flights 6086
+airport: ILG flights 56
+	| month 1, number of flights 56
+airport: AEX flights 303
+	| month 1, number of flights 303
+airport: TPA flights 5432
+	| month 1, number of flights 5432
+airport: HLN flights 118
+	| month 1, number of flights 118
+airport: YUM flights 264
+	| month 1, number of flights 264
+airport: ELP flights 1444
+	| month 1, number of flights 1444
+airport: ABI flights 244
+	| month 1, number of flights 244
+airport: MDT flights 339
+	| month 1, number of flights 339
+airport: MAF flights 825
+	| month 1, number of flights 825
+airport: MLI flights 340
+	| month 1, number of flights 340
+airport: SFO flights 13539
+	| month 1, number of flights 13539
+airport: AUS flights 3337
+	| month 1, number of flights 3337
+airport: TUS flights 1451
+	| month 1, number of flights 1451
+airport: GFK flights 3
+	| month 1, number of flights 3
+airport: MKE flights 2652
+	| month 1, number of flights 2652
+airport: DAB flights 119
+	| month 1, number of flights 119
+airport: MOT flights 130
+	| month 1, number of flights 130
+airport: ATW flights 183
+	| month 1, number of flights 183
+airport: RDU flights 3251
+	| month 1, number of flights 3251
+airport: AGS flights 248
+	| month 1, number of flights 248
+airport: LEX flights 411
+	| month 1, number of flights 411
+airport: ROC flights 675
+	| month 1, number of flights 675
+airport: MBS flights 117
+	| month 1, number of flights 117
+airport: ANC flights 1285
+	| month 1, number of flights 1285
+airport: PHL flights 6024
+	| month 1, number of flights 6024
+airport: PWM flights 337
+	| month 1, number of flights 337
+airport: ABR flights 62
+	| month 1, number of flights 62
+airport: OAK flights 3410
+	| month 1, number of flights 3410
+airport: JAX flights 1832
+	| month 1, number of flights 1832
+airport: PSC flights 199
+	| month 1, number of flights 199
+airport: BIS flights 180
+	| month 1, number of flights 180
+airport: MMH flights 67
+	| month 1, number of flights 67
+airport: SIT flights 93
+	| month 1, number of flights 93
+airport: BMI flights 226
+	| month 1, number of flights 226
+airport: COU flights 89
+	| month 1, number of flights 89
+airport: SJU flights 2302
+	| month 1, number of flights 2302
+airport: HOB flights 50
+	| month 1, number of flights 50
+airport: BLI flights 75
+	| month 1, number of flights 75
+airport: SGU flights 150
+	| month 1, number of flights 150
+airport: CMX flights 62
+	| month 1, number of flights 62
+airport: MEM flights 1317
+	| month 1, number of flights 1317
+airport: DIK flights 117
+	| month 1, number of flights 117
+airport: GRB flights 350
+	| month 1, number of flights 350
+airport: ABQ flights 1909
+	| month 1, number of flights 1909
+airport: RNO flights 1235
+	| month 1, number of flights 1235
+airport: DAL flights 3861
+	| month 1, number of flights 3861
+airport: ITO flights 518
+	| month 1, number of flights 518
+airport: PIT flights 2321
+	| month 1, number of flights 2321
+airport: BRW flights 78
+	| month 1, number of flights 78
+airport: SBA flights 789
+	| month 1, number of flights 789
+airport: GEG flights 709
+	| month 1, number of flights 709
+airport: LCH flights 175
+	| month 1, number of flights 175
+airport: RST flights 39
+	| month 1, number of flights 39
+airport: BZN flights 276
+	| month 1, number of flights 276
+airport: ALB flights 595
+	| month 1, number of flights 595
+airport: MGM flights 295
+	| month 1, number of flights 295
+airport: RDD flights 93
+	| month 1, number of flights 93
+airport: DFW flights 23482
+	| month 1, number of flights 23482
+airport: PBI flights 2259
+	| month 1, number of flights 2259
+airport: VLD flights 87
+	| month 1, number of flights 87
+airport: HRL flights 368
+	| month 1, number of flights 368
+airport: TVC flights 130
+	| month 1, number of flights 130
+airport: ABE flights 137
+	| month 1, number of flights 137
+airport: BNA flights 4663
+	| month 1, number of flights 4663
+airport: CPR flights 179
+	| month 1, number of flights 179
+airport: FAI flights 326
+	| month 1, number of flights 326
+airport: FNT flights 315
+	| month 1, number of flights 315
+airport: DEN flights 17955
+	| month 1, number of flights 17955
+airport: MSY flights 3399
+	| month 1, number of flights 3399
+airport: CHS flights 944
+	| month 1, number of flights 944
+airport: ISN flights 226
+	| month 1, number of flights 226
+airport: CEC flights 85
+	| month 1, number of flights 85
+airport: DTW flights 7550
+	| month 1, number of flights 7550
+airport: RHI flights 90
+	| month 1, number of flights 90
+airport: CIC flights 92
+	| month 1, number of flights 92
+airport: MCO flights 9189
+	| month 1, number of flights 9189
+airport: CWA flights 119
+	| month 1, number of flights 119
+airport: MLU flights 276
+	| month 1, number of flights 276
+airport: ORH flights 62
+	| month 1, number of flights 62
+airport: ACT flights 151
+	| month 1, number of flights 151
+airport: OKC flights 1697
+	| month 1, number of flights 1697
+airport: DCA flights 5739
+	| month 1, number of flights 5739
+airport: SCE flights 50
+	| month 1, number of flights 50
+airport: TLH flights 414
+	| month 1, number of flights 414
+airport: BPT flights 89
+	| month 1, number of flights 89
+airport: CAE flights 574
+	| month 1, number of flights 574
+airport: MYR flights 116
+	| month 1, number of flights 116
+airport: IAD flights 4688
+	| month 1, number of flights 4688
+airport: GJT flights 266
+	| month 1, number of flights 266
+airport: GRK flights 421
+	| month 1, number of flights 421
+airport: MHK flights 146
+	| month 1, number of flights 146
+airport: ASE flights 719
+	| month 1, number of flights 719
+airport: LAW flights 125
+	| month 1, number of flights 125
+airport: TOL flights 70
+	| month 1, number of flights 70
+airport: CRW flights 256
+	| month 1, number of flights 256
+airport: ADQ flights 53
+	| month 1, number of flights 53
+airport: GNV flights 267
+	| month 1, number of flights 267
+airport: GSO flights 590
+	| month 1, number of flights 590
+airport: GRR flights 809
+	| month 1, number of flights 809
+airport: MFE flights 348
+	| month 1, number of flights 348
+airport: CAK flights 533
+	| month 1, number of flights 533
+airport: BOS flights 8283
+	| month 1, number of flights 8283
+airport: TYS flights 685
+	| month 1, number of flights 685
+airport: CMI flights 182
+	| month 1, number of flights 182
+airport: OGG flights 1747
+	| month 1, number of flights 1747
+airport: PSE flights 74
+	| month 1, number of flights 74
+airport: HNL flights 3772
+	| month 1, number of flights 3772
+airport: CSG flights 110
+	| month 1, number of flights 110
+airport: PPG flights 10
+	| month 1, number of flights 10
+airport: SAT flights 2728
+	| month 1, number of flights 2728
+airport: MFR flights 276
+	| month 1, number of flights 276
+airport: CRP flights 517
+	| month 1, number of flights 517
+airport: JAN flights 732
+	| month 1, number of flights 732
+airport: EUG flights 440
+	| month 1, number of flights 440
+airport: FLL flights 5876
+	| month 1, number of flights 5876
+airport: MSO flights 228
+	| month 1, number of flights 228
+airport: DBQ flights 45
+	| month 1, number of flights 45
+airport: ROA flights 159
+	| month 1, number of flights 159
+airport: YAK flights 60
+	| month 1, number of flights 60
+airport: COD flights 62
+	| month 1, number of flights 62
+airport: CLE flights 3345
+	| month 1, number of flights 3345
+airport: SNA flights 3221
+	| month 1, number of flights 3221
+airport: FAT flights 933
+	| month 1, number of flights 933
+airport: GUM flights 31
+	| month 1, number of flights 31
+airport: MRY flights 414
+	| month 1, number of flights 414
+airport: EVV flights 237
+	| month 1, number of flights 237
+airport: GCK flights 62
+	| month 1, number of flights 62
+airport: IMT flights 59
+	| month 1, number of flights 59
+airport: APN flights 56
+	| month 1, number of flights 56
+airport: IND flights 2253
+	| month 1, number of flights 2253
+airport: DSM flights 886
+	| month 1, number of flights 886
+airport: HPN flights 615
+	| month 1, number of flights 615
+airport: TXK flights 89
+	| month 1, number of flights 89
+airport: BHM flights 1099
+	| month 1, number of flights 1099
+airport: EWR flights 9255
+	| month 1, number of flights 9255
+airport: BWI flights 7176
+	| month 1, number of flights 7176
+airport: SUX flights 58
+	| month 1, number of flights 58
+airport: LFT flights 503
+	| month 1, number of flights 503
+airport: ONT flights 1683
+	| month 1, number of flights 1683
+airport: BKG flights 97
+	| month 1, number of flights 97
+airport: VPS flights 401
+	| month 1, number of flights 401
+airport: ECP flights 278
+	| month 1, number of flights 278
+airport: BDL flights 1806
+	| month 1, number of flights 1806
+airport: MCI flights 3615
+	| month 1, number of flights 3615
+airport: HOU flights 5067
+	| month 1, number of flights 5067
+airport: RSW flights 2798
+	| month 1, number of flights 2798
+airport: SUN flights 112
+	| month 1, number of flights 112
+airport: SHV flights 596
+	| month 1, number of flights 596
+airport: SLC flights 8676
+	| month 1, number of flights 8676
+airport: EWN flights 62
+	| month 1, number of flights 62
+airport: PHF flights 180
+	| month 1, number of flights 180
